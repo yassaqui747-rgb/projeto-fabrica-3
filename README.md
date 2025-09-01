@@ -1,11 +1,11 @@
-# 🛒 Comparador de Preços — Versão Simples
+# 🛒 Comparador de Preços
 
 Projeto minimalista em **Python** para decidir **onde comprar mais barato** o *mesmo produto* em **3 supermercados**.  
 Sem limpezas de string nem formatação de moeda: **digite os preços como `float` usando ponto** (ex.: `27.90`).
 
 ---
 
-## 📝 Enunciado (mundo real, direto ao ponto)
+## 📝 Enunciado
 Você fará uma pesquisa de preços do **mesmo produto** (ex.: *Arroz 5kg*) em **três supermercados** e decidirá **onde comprar**.  
 O programa deve:
 1. Perguntar o **nome do produto**.
