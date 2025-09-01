@@ -36,8 +36,8 @@ Pré‑requisito: **Python 3.8+**
 
 1) Clone este repositório ou baixe os arquivos.
 ```bash
-git clone https://github.com/seu-usuario/comparador-preco-supermercados.git
-cd comparador-preco-supermercados
+git clone https://github.com/seu-usuario/projeto-fabrica-3.git
+cd projeto-fabrica-3
 ```
 
 2) Rode o programa:
@@ -78,7 +78,7 @@ python -m unittest
 
 ## 📂 Estrutura do projeto
 ```
-comparador-preco-supermercados/
+projeto-fabrica-3/
 ├─ comparador.py
 ├─ README.md
 ├─ tests/
